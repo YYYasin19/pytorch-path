@@ -1,5 +1,5 @@
 # Project specific folders
-02-Medical_Imaging/data/images/*
+02-Medical_Imaging/data/images*/*
 */data/*.tar.gz
 
 ### macOS ###
